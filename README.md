@@ -47,8 +47,4 @@
 
 ---
 
-### ⚡ Fun Fact
 
-I like to build cool side projects and automate boring stuff 🚀
-
----
